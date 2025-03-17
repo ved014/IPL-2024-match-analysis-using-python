@@ -1,0 +1,13 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports.isort": "explicit"
+    }
+  },
+  "isort.args":["--profile", "black"],
+  "python.defaultInterpreterPath": "${workspaceFolder}/env/bin/python",
+  "git.ignoreLimitWarning": true,
+  "workbench.colorTheme": "SynthWave '84"
+}

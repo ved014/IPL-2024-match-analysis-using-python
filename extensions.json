@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-toolsai.jupyter",
+    "ms-python.python",
+    "ms-python.black-formatter",
+    "ms-python.autopep8",
+    "ms-python.flake8",
+    "ms-python.isort",
+    "ms-python.mypy-type-checker",
+    "visualstudioexptteam.vscodeintellicode",
+    "mechatroner.rainbow-csv"
+  ]
+}
